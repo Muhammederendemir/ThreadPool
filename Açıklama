@@ -1,0 +1,6 @@
+               Yapılan iş
+
+ ThreadPool kullanılarak matematiksel dört işlem yapma.
+ -Toplamda ThreadPool da 4 adet Thread bulunmaktadır.
+ -Threadlar aynı anda iki sayi üzerinde matematiksel 4 işlemi yapmaktadır.
+
